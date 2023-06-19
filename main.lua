@@ -1,3 +1,7 @@
+local scriptName = "insert script name here"
+local webhookURL = "insert webhook url here"
+
+
 local http_service = game:GetService("HttpService")
 local plr = game:GetService("Players").LocalPlayer
 
